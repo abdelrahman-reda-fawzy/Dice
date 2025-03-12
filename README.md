@@ -14,9 +14,3 @@ Dice game where 2 players race to reach 100 points first.
 
 1. Clone the repository to your local machine.
 2. Open `index.html` in your web browser to start the game.
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
